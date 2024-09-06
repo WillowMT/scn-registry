@@ -7,10 +7,12 @@
     "files": [
         {
             "path": "components/layout.tsx",
+            "type":"registry:block",
             "target": "app/layout.tsx"
         },
         {
             "path": "components/theme-provider.tsx",
+            "type":"registry:block",
             "target": "components/theme-provider.tsx"
         }
     ],
