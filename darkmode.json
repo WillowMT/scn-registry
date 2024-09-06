@@ -1,0 +1,19 @@
+{
+    "name": "authentication-04",
+    "type": "registry:block",
+    "dependencies": [
+        "next-themes"
+    ],
+    "files": [
+        {
+            "path": "components/layout.tsx",
+            "target": "app/layout.tsx"
+        },
+        {
+            "path": "components/theme-provider.tsx",
+            "target": "components/theme-provider.tsx"
+        }
+    ],
+    "category": "Authentication",
+    "subcategory": "Login"
+}
